@@ -1,0 +1,4 @@
+spring:
+  config:
+    import:
+      - config/spring_datasource.yml

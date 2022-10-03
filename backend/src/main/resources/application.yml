@@ -1,0 +1,5 @@
+spring:
+  config:
+    import:
+      - config/spring_jpa.yml
+      - config/spring_flyway.yml
